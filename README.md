@@ -1,1 +1,1 @@
-Projeto Wordpress com Woocommerce pra processo seletivo IN jr
+# Projeto Wordpress com Woocommerce de loja de smartphones para processo seletivo IN jr
